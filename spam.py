@@ -41,7 +41,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Author : Rozhak\n\t\t   Fb :Rozhak.Id')
+                   '''+W+'Author : Rozhak\n\t\t   Fb :Rozhak')
                    
 def RupaRupa():
 	print
@@ -198,7 +198,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://m.facebook.com/100021670171916/')
+	os.system('xdg-open https://m.facebook.com/757953543/')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
