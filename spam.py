@@ -198,7 +198,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://m.facebook.com/757953543/')
+	os.system('xdg-open https://m.youtube.com//RozhakID/')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
